@@ -20,3 +20,5 @@ git remote add origin https://github.com/Katya841/git-course.git (ссылка репозит
 
 git push -u origin название ветки – заливаем то, что есть локально на гите на удаленный сервер
 (к которому привязаны) 
+
+git clone https://github.com/Katya841/git-course.git - клонировать репозиторий в текущую папку
